@@ -1,23 +1,6 @@
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
+# Скрываем секретные ссылки и настройки
+config.js
 
-node_modules
-dist
-dist-ssr
-*.local
-
-.vscode/*
-!.vscode/extensions.json
-.idea
+# Операционная система
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-.env
+Thumbs.db
